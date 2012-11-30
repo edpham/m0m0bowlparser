@@ -1,0 +1,252 @@
+M0M0 M0M0 (9-3)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Carson Palmer, Oak QB  Q	Trade
+RB	C.J. Spiller, Buf RB  P	Draft
+RB	Bryce Brown, Phi RB	Free Agency
+WR	Julio Jones, Atl WR	Draft
+WR	Justin Blackmon, Jac WR  Q	Free Agency
+WR/TE	T.Y. Hilton, Ind WR	Free Agency
+TE	Greg Olsen, Car TE	Free Agency
+D/ST	Steelers D/ST D/ST	Draft
+K	Connor Barth, TB K	Free Agency
+Bench	LeSean McCoy, Phi RB  D	Draft
+Bench	Brandon LaFell, Car WR	Free Agency
+Bench	James Jones, GB WR	Free Agency
+Bench	 	
+IR	Rob Gronkowski*, NE TE  O	Draft
+IR	 	
+
+MCKAYLA'S NOT IMPRESSED (6-6)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Matt Schaub, Hou QB	Draft
+RB	Darren Sproles, NO RB	Draft
+RB	Adrian Peterson, Min RB  P	Draft
+WR	Eric Decker, Den WR	Draft
+WR	Hakeem Nicks, NYG WR	Free Agency
+WR/TE	Greg Jennings, GB WR  P	Draft
+TE	Antonio Gates, SD TE	Draft
+D/ST	Bengals D/ST D/ST	Free Agency
+K	David Akers, SF K  Q	Free Agency
+Bench	Rashard Mendenhall, Pit RB	Draft
+Bench	Andre Roberts, Ari WR  Q	Free Agency
+Bench	Kendall Wright, Ten WR	Free Agency
+Bench	Felix Jones, Dal RB  Q	Free Agency
+IR	 	
+IR	 	
+
+NEW YORK GIANTS (5-7)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Tom Brady, NE QB	Draft
+RB	Marshawn Lynch, Sea RB  P	Draft
+RB	Marcel Reece, Oak RB  P	Free Agency
+WR	Steve Johnson, Buf WR	Draft
+WR	Denarius Moore, Oak WR	Free Agency
+WR/TE	Jeremy Kerley, NYJ WR  P	Free Agency
+TE	Tony Gonzalez, Atl TE	Draft
+D/ST	Bears D/ST D/ST	Draft
+K	Robbie Gould, Chi K	Free Agency
+Bench	Darren McFadden, Oak RB  Q	Draft
+Bench	Ben Roethlisberger, Pit QB  Q	Draft
+Bench	Darrius Heyward-Bey, Oak WR	Draft
+Bench	Andre Brown*, NYG RB  IR	Free Agency
+IR	 	
+IR	 	
+
+HOUSTON DESPOILERS (7-5)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Aaron Rodgers, GB QB	Draft
+RB	Chris Johnson, Ten RB	Draft
+RB	Ryan Mathews, SD RB	Draft
+WR	Miles Austin, Dal WR  Q	Draft
+WR	Lance Moore, NO WR	Draft
+WR/TE	Mario Manningham, SF WR  P	Draft
+TE	Owen Daniels, Hou TE  P	Draft
+D/ST	Falcons D/ST D/ST	Draft
+K	Matt Bryant, Atl K	Draft
+Bench	Isaac Redman, Pit RB	Draft
+Bench	Toby Gerhart, Min RB	Draft
+Bench	Randy Moss, SF WR	Draft
+Bench	Leonard Hankerson, Wsh WR	Draft
+IR	 	
+IR	 	
+
+GO RAVENS CAWCAW (5-7)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Matthew Stafford, Det QB	Draft
+RB	Stevan Ridley, NE RB	Trade
+RB	Jacquizz Rodgers, Atl RB	Free Agency
+WR	Roddy White, Atl WR	Draft
+WR	Cecil Shorts, Jac WR  Q	Free Agency
+WR/TE	Pierre Garcon, Wsh WR  P	Free Agency
+TE	Brandon Pettigrew, Det TE	Free Agency
+D/ST	Browns D/ST D/ST	Free Agency
+K	Shaun Suisham, Pit K	Free Agency
+Bench	Jonathan Dwyer, Pit RB	Free Agency
+Bench	Colin Kaepernick, SF QB	Free Agency
+Bench	Shane Vereen, NE RB	Free Agency
+Bench	 	
+IR	Jalen Parmele*, Jac RB  IR	Free Agency
+IR	 	
+
+AZ COMEBACK KIDS (9-3)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Drew Brees, NO QB	Draft
+RB	Frank Gore, SF RB  P	Draft
+RB	Daniel Thomas, Mia RB  P	Free Agency
+WR	Victor Cruz, NYG WR	Draft
+WR	Brandon Lloyd, NE WR  Q	Free Agency
+WR/TE	Brandon Marshall, Chi WR	Draft
+TE	Jermaine Gresham, Cin TE	Free Agency
+D/ST	Texans D/ST D/ST	Draft
+K	Sebastian Janikowski, Oak K	Draft
+Bench	DeSean Jackson*, Phi WR  IR	Draft
+Bench	Ryan Fitzpatrick, Buf QB	Draft
+Bench	Ronnie Brown, SD RB	Free Agency
+Bench	Mark Ingram, NO RB	Free Agency
+IR	Nate Burleson*, Det WR  IR	Draft
+IR	 	
+
+HUSKIES OVER TROJANS (2-10)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Josh Freeman, TB QB	Draft
+RB	DeMarco Murray, Dal RB  Q	Draft
+RB	Ray Rice, Bal RB	Draft
+WR	Antonio Brown, Pit WR  P	Draft
+WR	Larry Fitzgerald, Ari WR	Draft
+WR/TE	Nate Washington, Ten WR	Draft
+TE	Dustin Keller, NYJ TE  P	Draft
+D/ST	Bills D/ST D/ST	Draft
+K	Neil Rackers, FA K	Draft
+Bench	David Wilson, NYG RB	Draft
+Bench	Andy Dalton, Cin QB	Draft
+Bench	Rueben Randle, NYG WR	Draft
+Bench	Mike Williams, TB WR	Draft
+IR	 	
+IR	 	
+
+IT'S ON LIKE NDAMUKONG (5-7)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Andrew Luck, Ind QB  P	Draft
+RB	Jamaal Charles, KC RB	Draft
+RB	Trent Richardson, Cle RB	Draft
+WR	Vincent Jackson, TB WR	Draft
+WR	Santana Moss, Wsh WR	Free Agency
+WR/TE	Torrey Smith, Bal WR  P	Draft
+TE	Vernon Davis, SF TE	Draft
+D/ST	Chargers D/ST D/ST	Free Agency
+K	Jason Hanson, Det K	Free Agency
+Bench	Matt Forte, Chi RB  Q	Draft
+Bench	Kyle Rudolph, Min TE  Q	Free Agency
+Bench	Brandon Gibson, StL WR	Free Agency
+Bench	 	
+IR	 	
+IR	 	
+
+THE SEAGULLS (9-3)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Robert Griffin III, Wsh QB	Draft
+RB	BenJarvus Green-Ellis, Cin RB	Draft
+RB	Doug Martin, TB RB	Draft
+WR	A.J. Green, Cin WR	Draft
+WR	Dez Bryant, Dal WR	Draft
+WR/TE	Wes Welker, NE WR  Q	Draft
+TE	Heath Miller, Pit TE	Free Agency
+D/ST	Seahawks D/ST D/ST	Draft
+K	Lawrence Tynes, NYG K	Free Agency
+Bench	Danny Amendola, StL WR  Q	Free Agency
+Bench	Rams D/ST D/ST	Free Agency
+Bench	Danario Alexander, SD WR	Free Agency
+Bench	Ronnie Hillman, Den RB	Free Agency
+IR	Cedric Benson*, GB RB  IR	Draft
+IR	 	
+
+TROJANS FIGHT ON!!! (9-3)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Tony Romo, Dal QB	Trade
+RB	Steven Jackson, StL RB  P	Trade
+RB	Mikel Leshoure, Det RB  Q	Free Agency
+WR	Calvin Johnson, Det WR  P	Draft
+WR	Reggie Wayne, Ind WR	Free Agency
+WR/TE	Malcom Floyd, SD WR	Free Agency
+TE	Brandon Myers, Oak TE	Free Agency
+D/ST	Ravens D/ST D/ST	Free Agency
+K	Justin Tucker, Bal K	Free Agency
+Bench	Patriots D/ST D/ST	Free Agency
+Bench	Brian Hartline, Mia WR	Free Agency
+Bench	Kenny Britt, Ten WR  P	Free Agency
+Bench	Brent Celek, Phi TE	Free Agency
+IR	 	
+IR	 	
+
+SHOW ME YOUR TD'S (4-8)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Eli Manning, NYG QB	Draft
+RB	Michael Turner, Atl RB	Draft
+RB	Shonn Greene, NYJ RB	Draft
+WR	Anquan Boldin, Bal WR  P	Draft
+WR	Demaryius Thomas, Den WR  P	Draft
+WR/TE	Jermichael Finley, GB TE	Draft
+TE	Jason Witten, Dal TE	Draft
+D/ST	49ers D/ST D/ST	Draft
+K	Stephen Gostkowski, NE K	Draft
+Bench	Philip Rivers, SD QB	Draft
+Bench	DeAngelo Williams, Car RB	Draft
+Bench	Daryl Richardson, StL RB	Free Agency
+Bench	Ryan Broyles, Det WR	Free Agency
+IR	Jahvid Best*, Det RB  O	Draft
+IR	 	
+
+TRUE PLAYAZ (5-7)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Matt Ryan, Atl QB	Draft
+RB	Arian Foster, Hou RB  P	Draft
+RB	Alfred Morris, Wsh RB	Free Agency
+WR	Marques Colston, NO WR	Draft
+WR	Mike Wallace, Pit WR	Trade
+WR/TE	Andre Johnson, Hou WR  Q	Trade
+TE	Jared Cook, Ten TE	Free Agency
+D/ST	Giants D/ST D/ST	Free Agency
+K	Blair Walsh, Min K	Free Agency
+Bench	Michael Crabtree, SF WR	Draft
+Bench	Ahmad Bradshaw, NYG RB  P	Draft
+Bench	Buccaneers D/ST D/ST	Free Agency
+Bench	Shayne Graham, Hou K	Free Agency
+IR	Fred Jackson, Buf RB	Draft
+IR	 	
+
+CHEVS' DYNASTY (2-10)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Joe Flacco, Bal QB	Draft
+RB	Maurice Jones-Drew*, Jac RB  O	Draft
+RB	Reggie Bush, Mia RB	Draft
+WR	Jeremy Maclin, Phi WR	Draft
+WR	 	
+WR/TE	Brandon Stokley, Den WR  Q	Free Agency
+TE	Jimmy Graham, NO TE	Draft
+D/ST	Packers D/ST D/ST	Draft
+K	Garrett Hartley, NO K	Draft
+Bench	Michael Bush, Chi RB	Draft
+Bench	Jonathan Stewart, Car RB  Q	Draft
+Bench	Alex Smith, SF QB	Draft
+Bench	Donnie Avery, Ind WR	Free Agency
+Bench	Randall Cobb, GB WR	Free Agency
+IR	 	
+IR	 	
+
+DEM BRONCOS (7-5)
+SLOT	PLAYER, TEAM POS	ACQ
+QB	Peyton Manning, Den QB	Draft
+RB	Beanie Wells, Ari RB  Q	Draft
+RB	Knowshon Moreno, Den RB	Free Agency
+WR	Jordy Nelson, GB WR	Draft
+WR	Steve Smith, Car WR	Draft
+WR/TE	Sidney Rice, Sea WR	Draft
+TE	Aaron Hernandez, NE TE  Q	Draft
+D/ST	Broncos D/ST D/ST	Draft
+K	Matt Prater, Den K	Draft
+Bench	Cam Newton, Car QB  P	Draft
+Bench	Percy Harvin, Min WR  Q	Draft
+Bench	Jacob Tamme, Den TE	Free Agency
+Bench	Vick Ballard, Ind RB	Free Agency
+IR	Willis McGahee*, Den RB  IR	Draft
+IR	 	

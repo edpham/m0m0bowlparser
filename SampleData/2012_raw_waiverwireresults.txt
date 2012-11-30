@@ -1,0 +1,227 @@
+1.	Trojans Fight On!!!	Pierre Thomas, NO RB	$11	Added. 
+2.	Trojans Fight On!!!	Jermaine Gresham, Cin TE	$8	Added. USC dropped Brandon Jacobs, SF RB to Waivers.
+3.	DEM BRONCOS	Kendall Wright, Ten WR	$2	Added. 
+4.	It's On Like Ndamukong	Russell Wilson, Sea QB	$2	Added. 
+5.	m0m0 m0m0	Brandon LaFell, Car WR	$1	Added. m0m0 dropped Heath Miller, Pit TE to Waivers.
+ 	It's On Like Ndamukong	Kendall Wright, Ten WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+6.	It's On Like Ndamukong	Ed Dickson, Bal TE	$1	Added. 
+7.	Trojans Fight On!!!	Patriots D/ST D/ST	$1	Added. USC dropped Cowboys D/ST, Dal D/ST to Waivers.
+8.	Trojans Fight On!!!	David Nelson*, Buf WR	$1	Added. USC dropped Laurent Robinson*, Jac WR to Waivers.
+1.	The Seagulls	Rashad Jennings, Jac RB	$5	Added. GULL dropped Reggie Wayne, Ind WR to Waivers.
+2.	m0m0 m0m0	Ryan Tannehill, Mia QB	$1	Added. m0m0 dropped Matt Cassel, KC QB to Waivers.
+3.	McKayla's not Impressed	Jason Hanson, Det K	$1	Added. HS dropped Randy Bullock*, Hou K to Waivers.
+1.	Trojans Fight On!!!	Reggie Wayne, Ind WR	$11	Added. USC dropped David Nelson*, Buf WR to Waivers.
+ 	m0m0 m0m0	Reggie Wayne, Ind WR	$9	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+2.	McKayla's not Impressed	Greg Little, Cle WR	$2	Added. HS dropped Terrell Owens, FA WR to Waivers.
+ 	Show Me Your TD's	Reggie Wayne, Ind WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+3.	m0m0 m0m0	Laurent Robinson*, Jac WR	$1	Added. m0m0 dropped Ryan Tannehill, Mia QB to Waivers.
+4.	McKayla's not Impressed	Greg Olsen, Car TE	$1	Added. HS dropped Danny Amendola, StL WR to Waivers.
+1.	True Playaz	Matt Cassel, KC QB	$1	Added. 
+1.	Chevs' Dynasty	Danny Amendola, StL WR	$1	Added. JONK dropped Davone Bess, Mia WR to Waivers.
+2.	True Playaz	Evan Royster, Wsh RB	$1	Added. PLYZ dropped Matt Cassel, KC QB to Waivers.
+3.	Trojans Fight On!!!	Keiland Williams, Wsh RB	$1	Added. USC dropped Kellen Winslow, FA TE to Waivers.
+ 	m0m0 m0m0	Kevin Ogletree, Dal WR	$5	Unsuccessful.  Reason: A player involved is currently locked.
+1.	Show Me Your TD's	Davone Bess, Mia WR	$1	Added. 
+ 	Trojans Fight On!!!	Brandon Jackson, Cle RB	$1	Unsuccessful.  Reason: A player involved is currently locked.
+1.	True Playaz	Alfred Morris, Wsh RB	$20	Added. PLYZ dropped Evan Royster, Wsh RB to Waivers.
+ 	McKayla's not Impressed	Alfred Morris, Wsh RB	$12	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+2.	m0m0 m0m0	Kevin Ogletree, Dal WR	$7	Added. m0m0 dropped Laurent Robinson*, Jac WR to Waivers.
+3.	m0m0 m0m0	Mark Sanchez, NYJ QB	$7	Added. m0m0 dropped Sam Bradford, StL QB to Waivers.
+ 	Show Me Your TD's	Kevin Ogletree, Dal WR	$6	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	The Seagulls	Randall Cobb, GB WR	$5	Added. GULL dropped Rashad Jennings, Jac RB to Waivers.
+5.	McKayla's not Impressed	Nate Kaeding, FA K	$4	Added. HS dropped Jason Hanson, Det K to Waivers.
+6.	m0m0 m0m0	Stephen Hill, NYJ WR	$4	Added. m0m0 dropped Brandon Pettigrew, Det TE to Waivers.
+ 	DEM BRONCOS	Alfred Morris, Wsh RB	$3	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+7.	McKayla's not Impressed	Bengals D/ST D/ST	$2	Added. HS dropped Lions D/ST, Det D/ST to Waivers.
+8.	McKayla's not Impressed	Andrew Hawkins, Cin WR	$2	Added. HS dropped Greg Little, Cle WR to Waivers.
+9.	Trojans Fight On!!!	Dexter McCluster, KC RB	$2	Added. USC dropped Keiland Williams, Wsh RB to Waivers.
+ 	Go Ravens CawCaw	Kevin Ogletree, Dal WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+10.	Go Ravens CawCaw	Ronnie Brown, SD RB	$1	Added. Caw dropped Mike Goodson, Oak RB to Waivers.
+ 	Go Ravens CawCaw	Alfred Morris, Wsh RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+1.	McKayla's not Impressed	Brandon Pettigrew, Det TE	$2	Added. HS dropped Greg Olsen, Car TE to Waivers.
+2.	Chevs' Dynasty	Laurent Robinson*, Jac WR	$2	Added. JONK dropped Roy Helu*, Wsh RB to Waivers.
+3.	Go Ravens CawCaw	Mike Goodson, Oak RB	$1	Added. 
+ 	Go Ravens CawCaw	Brandon Pettigrew, Det TE	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	Trojans Fight On!!!	Aldrick Robinson, Wsh WR	$1	Added. USC dropped Denarius Moore, Oak WR to Waivers.
+5.	True Playaz	Andre Roberts, Ari WR	$1	Added. 
+1.	The Seagulls	Dennis Pitta, Bal TE	$6	Added. GULL dropped Jacob Tamme, Den TE to Waivers.
+2.	True Playaz	Andre Brown*, NYG RB	$5	Added. 
+3.	Chevs' Dynasty	Donnie Avery, Ind WR	$3	Added. JONK dropped Titus Young, Det WR to Waivers.
+ 	Trojans Fight On!!!	Dennis Pitta, Bal TE	$2	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	McKayla's not Impressed	Sam Bradford, StL QB	$1	Added. HS dropped Jay Cutler, Chi QB to Waivers.
+5.	Trojans Fight On!!!	Mikel Leshoure, Det RB	$1	Added. USC dropped Felix Jones, Dal RB to Waivers.
+ 	Go Ravens CawCaw	Andre Brown*, NYG RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	Go Ravens CawCaw	Dennis Pitta, Bal TE	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+6.	Go Ravens CawCaw	Cardinals D/ST D/ST	$1	Added. Caw dropped Jets D/ST, NYJ D/ST to Waivers.
+7.	DEM BRONCOS	Heath Miller, Pit TE	$1	Added. 
+1.	Trojans Fight On!!!	Brian Hartline, Mia WR	$1	Added. USC dropped Robert Meachem, SD WR to Waivers.
+2.	Go Ravens CawCaw	Justin Tucker, Bal K	$1	Added. Caw dropped Alex Henery, Phi K to Waivers.
+1.	AZ Comeback Kids	Daniel Thomas, Mia RB	$11	Added. CBK dropped Shane Vereen, NE RB to Waivers.
+2.	m0m0 m0m0	Tashard Choice, Buf RB	$5	Added. m0m0 dropped Stephen Hill, NYJ WR to Waivers.
+ 	DEM BRONCOS	Tashard Choice, Buf RB	$4	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+3.	m0m0 m0m0	Buccaneers D/ST D/ST	$2	Added. m0m0 dropped Justin Blackmon, Jac WR to Waivers.
+4.	DEM BRONCOS	Jacob Tamme, Den TE	$2	Added. DB dropped Kendall Wright, Ten WR to Waivers.
+5.	It's On Like Ndamukong	Kyle Rudolph, Min TE	$1	Added. Chin dropped Ed Dickson, Bal TE to Waivers.
+6.	It's On Like Ndamukong	Jason Hanson, Det K	$1	Added. Chin dropped Robbie Gould, Chi K to Waivers.
+7.	New York Giants	Denarius Moore, Oak WR	$1	Added. NYC dropped Brian Quick, StL WR to Waivers.
+8.	New York Giants	Armon Binns, Cin WR	$1	Added. NYC dropped LeGarrette Blount, TB RB to Waivers.
+ 	Trojans Fight On!!!	Denarius Moore, Oak WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+9.	Trojans Fight On!!!	Jacquizz Rodgers, Atl RB	$1	Added. USC dropped Dexter McCluster, KC RB to Waivers.
+10.	Go Ravens CawCaw	Kevin Kolb, Ari QB	$1	Added. 
+ 	Go Ravens CawCaw	Jacquizz Rodgers, Atl RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+11.	Go Ravens CawCaw	Scott Chandler, Buf TE	$1	Added. 
+ 	Go Ravens CawCaw	Daniel Thomas, Mia RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	Go Ravens CawCaw	Christian Ponder, Min QB	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+12.	The Seagulls	Jerome Simpson, Min WR	$1	Added. GULL dropped Randall Cobb, GB WR to Waivers.
+1.	DEM BRONCOS	Andre Brown*, NYG RB	$4	Added. 
+2.	Chevs' Dynasty	Brandon Stokley, Den WR	$2	Added. JONK dropped Laurent Robinson*, Jac WR to Waivers.
+3.	Trojans Fight On!!!	Donald Jones, Buf WR	$1	Added. USC dropped Aldrick Robinson, Wsh WR to Waivers.
+ 	Go Ravens CawCaw	Andre Brown*, NYG RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	Go Ravens CawCaw	Lance Ball, Den RB	$1	Added. Caw dropped Jonathan Dwyer, Pit RB to Waivers.
+5.	True Playaz	Greg Olsen, Car TE	$1	Added. PLYZ dropped Jared Cook, Ten TE to Waivers.
+1.	McKayla's not Impressed	Andre Roberts, Ari WR	$7	Added. HS dropped Ben Tate, Hou RB to Waivers.
+2.	m0m0 m0m0	Brandon Bolden, NE RB	$5	Added. m0m0 dropped Tashard Choice, Buf RB to Waivers.
+3.	m0m0 m0m0	James Jones, GB WR	$4	Added. m0m0 dropped Buccaneers D/ST, TB D/ST to Waivers.
+4.	Go Ravens CawCaw	Jackie Battle, SD RB	$3	Added. 
+ 	Trojans Fight On!!!	Jackie Battle, SD RB	$3	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+5.	m0m0 m0m0	Jay Cutler, Chi QB	$1	Added. m0m0 dropped Mark Sanchez, NYJ QB to Waivers.
+6.	m0m0 m0m0	Greg Zuerlein, StL K	$1	Added. m0m0 dropped Dan Bailey, Dal K to Waivers.
+7.	McKayla's not Impressed	Lawrence Tynes, NYG K	$1	Added. HS dropped Nate Kaeding, FA K to Waivers.
+8.	Go Ravens CawCaw	Lamar Miller, Mia RB	$1	Added. Caw dropped Ronnie Brown, SD RB to Waivers.
+ 	Trojans Fight On!!!	Jay Cutler, Chi QB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+9.	Trojans Fight On!!!	Ryan Tannehill, Mia QB	$1	Added. USC dropped Donald Jones, Buf WR to Waivers.
+1.	m0m0 m0m0	Domenik Hixon, NYG WR	$1	Added. m0m0 dropped Kevin Ogletree, Dal WR to Waivers.
+2.	New York Giants	Jeremy Kerley, NYJ WR	$1	Added. NYC dropped Armon Binns, Cin WR to Waivers.
+3.	It's On Like Ndamukong	Blair Walsh, Min K	$1	Added. Chin dropped Jason Hanson, Det K to Waivers.
+ 	It's On Like Ndamukong	Jeremy Kerley, NYJ WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	Trojans Fight On!!!	Christian Ponder, Min QB	$1	Added. USC dropped Ryan Tannehill, Mia QB to Waivers.
+1.	The Seagulls	Alex Green, GB RB	$23	Added. 
+2.	Go Ravens CawCaw	Joique Bell, Det RB	$3	Added. Caw dropped Lance Ball, Den RB to Waivers.
+3.	Chevs' Dynasty	Randall Cobb, GB WR	$3	Added. JONK dropped Danny Amendola, StL WR to Waivers.
+ 	The Seagulls	LaRod Stephens-Howling, Ari RB	$3	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+4.	Go Ravens CawCaw	LaRod Stephens-Howling, Ari RB	$2	Added. Caw dropped Lamar Miller, Mia RB to Waivers.
+5.	m0m0 m0m0	Kendall Hunter*, SF RB	$1	Added. 
+6.	It's On Like Ndamukong	Jason Hanson, Det K	$1	Added. 
+7.	It's On Like Ndamukong	Brandon Gibson, StL WR	$1	Added. Chin dropped Kenny Britt, Ten WR to Waivers.
+8.	New York Giants	Dolphins D/ST D/ST	$1	Added. NYC dropped Ryan Williams*, Ari RB to Waivers.
+ 	The Seagulls	Buccaneers D/ST D/ST	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+9.	AZ Comeback Kids	Ronnie Brown, SD RB	$1	Added. 
+1.	DEM BRONCOS	Vick Ballard, Ind RB	$5	Added. DB dropped Mark Ingram, NO RB to Waivers.
+2.	The Seagulls	Danny Amendola, StL WR	$1	Added. GULL dropped Jerome Simpson, Min WR to Waivers.
+3.	True Playaz	Zach Miller, Sea TE	$1	Added. PLYZ dropped Greg Olsen, Car TE to Waivers.
+1.	McKayla's not Impressed	Kendall Wright, Ten WR	$13	Added. HS dropped Sam Bradford, StL QB to Waivers.
+2.	Trojans Fight On!!!	Kenny Britt, Ten WR	$7	Added. USC dropped Pierre Garcon, Wsh WR to Waivers.
+3.	Go Ravens CawCaw	Felix Jones, Dal RB	$4	Added. Caw dropped Jackie Battle, SD RB to Waivers.
+ 	m0m0 m0m0	Felix Jones, Dal RB	$4	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	Trojans Fight On!!!	William Powell, Ari RB	$3	Added. USC dropped Jacquizz Rodgers, Atl RB to Waivers.
+5.	Go Ravens CawCaw	Brandon Weeden, Cle QB	$2	Added. 
+6.	It's On Like Ndamukong	Vikings D/ST D/ST	$1	Added. Chin dropped Blair Walsh, Min K to Waivers.
+ 	Go Ravens CawCaw	William Powell, Ari RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+7.	True Playaz	Jared Cook, Ten TE	$1	Added. PLYZ dropped Zach Miller, Sea TE to Waivers.
+8.	The Seagulls	Greg Olsen, Car TE	$1	Added. 
+ 	The Seagulls	Kenny Britt, Ten WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	The Seagulls	Joel Dreessen, Den TE	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+1.	Show Me Your TD's	Josh Gordon, Cle WR	$8	Added. TD dropped Davone Bess, Mia WR to Waivers.
+2.	True Playaz	Sam Bradford, StL QB	$5	Added. PLYZ dropped Malcom Floyd, SD WR to Waivers.
+3.	Show Me Your TD's	Daryl Richardson, StL RB	$3	Added. TD dropped Peyton Hillis, KC RB to Waivers.
+4.	DEM BRONCOS	Danny Woodhead, NE RB	$2	Added. DB dropped Heath Miller, Pit TE to Waivers.
+ 	Go Ravens CawCaw	Josh Gordon, Cle WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+5.	True Playaz	Giants D/ST D/ST	$1	Added. PLYZ dropped Ravens D/ST, Bal D/ST to Waivers.
+6.	True Playaz	Blair Walsh, Min K	$1	Added. PLYZ dropped Mason Crosby, GB K to Waivers.
+ 	The Seagulls	Josh Gordon, Cle WR	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+1.	The Seagulls	Heath Miller, Pit TE	$10	Added. GULL dropped Dennis Pitta, Bal TE to Waivers.
+ 	The Seagulls	Heath Miller, Pit TE	$10	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	Houston Despoilers	Heath Miller, Pit TE	$8	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	Trojans Fight On!!!	Heath Miller, Pit TE	$8	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+2.	McKayla's not Impressed	Matt Hasselbeck, Ten QB	$4	Added. HS dropped Brandon Pettigrew, Det TE to Waivers.
+3.	m0m0 m0m0	Rashad Jennings, Jac RB	$4	Added. 
+4.	Trojans Fight On!!!	Malcom Floyd, SD WR	$4	Added. USC dropped William Powell, Ari RB to Waivers.
+ 	m0m0 m0m0	Jonathan Dwyer, Pit RB	$2	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+5.	McKayla's not Impressed	Chargers D/ST D/ST	$1	Added. HS dropped Bengals D/ST, Cin D/ST to Waivers.
+ 	Go Ravens CawCaw	Heath Miller, Pit TE	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+6.	Go Ravens CawCaw	Shaun Suisham, Pit K	$1	Added. Caw dropped Justin Tucker, Bal K to Waivers.
+ 	Go Ravens CawCaw	Rashad Jennings, Jac RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	DEM BRONCOS	Heath Miller, Pit TE	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	Trojans Fight On!!!	Shaun Suisham, Pit K	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+1.	Go Ravens CawCaw	Greg Little, Cle WR	$1	Added. Caw dropped Brandon Lloyd, NE WR to Waivers.
+2.	Trojans Fight On!!!	Brandon Myers, Oak TE	$1	Added. USC dropped Jermaine Gresham, Cin TE to Waivers.
+3.	Trojans Fight On!!!	Nick Folk, NYJ K	$1	Added. USC dropped Mike Nugent, Cin K to Waivers.
+4.	AZ Comeback Kids	Browns D/ST D/ST	$1	Added. CBK dropped Fred Davis*, Wsh TE to Waivers.
+1.	Go Ravens CawCaw	Jonathan Dwyer, Pit RB	$5	Added. Caw dropped Felix Jones, Dal RB to Waivers.
+2.	Go Ravens CawCaw	Titus Young, Det WR	$4	Added. Caw dropped Greg Little, Cle WR to Waivers.
+3.	Trojans Fight On!!!	Ravens D/ST D/ST	$3	Added. USC dropped Christian Ponder, Min QB to Waivers.
+4.	Go Ravens CawCaw	Brandon Pettigrew, Det TE	$2	Added. Caw dropped Scott Chandler, Buf TE to Waivers.
+5.	Trojans Fight On!!!	Justin Tucker, Bal K	$2	Added. USC dropped Nick Folk, NYJ K to Waivers.
+ 	m0m0 m0m0	Brandon Pettigrew, Det TE	$2	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	It's On Like Ndamukong	Brandon Pettigrew, Det TE	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+6.	It's On Like Ndamukong	Santana Moss, Wsh WR	$1	Added. Chin dropped Russell Wilson, Sea QB to Waivers. Chin dropped Jake Locker, Ten QB to Waivers.
+ 	Trojans Fight On!!!	Ravens D/ST D/ST	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+7.	m0m0 m0m0	Connor Barth, TB K	$1	Added. m0m0 dropped Greg Zuerlein, StL K to Waivers.
+ 	The Seagulls	Connor Barth, TB K	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+1.	McKayla's not Impressed	Felix Jones, Dal RB	$8	Added. HS dropped Matt Hasselbeck, Ten QB to Waivers.
+2.	m0m0 m0m0	Greg Olsen, Car TE	$1	Added. 
+ 	m0m0 m0m0	Jermaine Gresham, Cin TE	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	m0m0 m0m0	Dennis Pitta, Bal TE	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	m0m0 m0m0	Scott Chandler, Buf TE	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	m0m0 m0m0	Logan Paulsen, Wsh TE	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+3.	The Seagulls	Kai Forbath, Wsh K	$1	Added. GULL dropped David Akers, SF K to Waivers.
+1.	AZ Comeback Kids	Brandon Lloyd, NE WR	$16	Added. 
+2.	AZ Comeback Kids	Mark Ingram, NO RB	$12	Added. CBK dropped Browns D/ST, Cle D/ST to Waivers.
+3.	AZ Comeback Kids	Jermaine Gresham, Cin TE	$12	Added. CBK dropped Brent Celek, Phi TE to Waivers.
+4.	Show Me Your TD's	Ryan Broyles, Det WR	$5	Added. TD dropped Josh Gordon, Cle WR to Waivers.
+5.	m0m0 m0m0	T.Y. Hilton, Ind WR	$3	Added. m0m0 dropped Brandon Bolden, NE RB to Waivers.
+6.	Go Ravens CawCaw	Cowboys D/ST D/ST	$1	Added. Caw dropped Cardinals D/ST, Ari D/ST to Waivers.
+7.	Go Ravens CawCaw	Emmanuel Sanders, Pit WR	$1	Added. Caw dropped Martellus Bennett, NYG TE to Waivers.
+8.	Go Ravens CawCaw	Taiwan Jones, Oak RB	$1	Added. Caw dropped Brandon Weeden, Cle QB to Waivers.
+9.	McKayla's not Impressed	David Akers, SF K	$1	Added. HS dropped Lawrence Tynes, NYG K to Waivers.
+10.	The Seagulls	Robbie Gould, Chi K	$1	Added. GULL dropped Kai Forbath, Wsh K to Waivers.
+1.	The Seagulls	Lawrence Tynes, NYG K	$3	Added. GULL dropped Robbie Gould, Chi K to Waivers.
+2.	New York Giants	Marcel Reece, Oak RB	$1	Added. 
+3.	New York Giants	Andre Brown*, NYG RB	$1	Added. NYC dropped Dolphins D/ST, Mia D/ST to Waivers.
+4.	Go Ravens CawCaw	Davone Bess, Mia WR	$1	Added. Caw dropped Hakeem Nicks, NYG WR to Waivers.
+1.	Go Ravens CawCaw	Chris Ivory, NO RB	$3	Added. Caw dropped Taiwan Jones, Oak RB to Waivers.
+2.	Go Ravens CawCaw	Josh Morgan, Wsh WR	$2	Added. Caw dropped Titus Young, Det WR to Waivers.
+3.	McKayla's not Impressed	Bengals D/ST D/ST	$2	Added. HS dropped Chargers D/ST, SD D/ST to Waivers.
+ 	The Seagulls	Bengals D/ST D/ST	$2	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	The Seagulls	Bengals D/ST D/ST	$2	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	It's On Like Ndamukong	Bengals D/ST D/ST	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	New York Giants	Chris Ivory, NO RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	New York Giants	Robbie Gould, Chi K	$1	Added. NYC dropped Rob Bironas, Ten K to Waivers.
+ 	Go Ravens CawCaw	Bengals D/ST D/ST	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+5.	Go Ravens CawCaw	Scott Chandler, Buf TE	$1	Added. Caw dropped Davone Bess, Mia WR to Waivers.
+ 	m0m0 m0m0	Bengals D/ST D/ST	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+6.	Trojans Fight On!!!	Brent Celek, Phi TE	$1	Added. USC dropped Pierre Thomas, NO RB to Waivers.
+7.	The Seagulls	Greg Zuerlein, StL K	$1	Added. GULL dropped Alex Green, GB RB to Waivers.
+ 	The Seagulls	Greg Zuerlein, StL K	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+8.	The Seagulls	Kai Forbath, Wsh K	$1	Added. GULL dropped Michael Vick, Phi QB to Waivers.
+1.	Go Ravens CawCaw	Redskins D/ST D/ST	$1	Added. Caw dropped Cowboys D/ST, Dal D/ST to Waivers.
+2.	True Playaz	Buccaneers D/ST D/ST	$1	Added. 
+3.	True Playaz	Shayne Graham, Hou K	$1	Added. PLYZ dropped Sam Bradford, StL QB to Waivers.
+ 	The Seagulls	Buccaneers D/ST D/ST	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+4.	The Seagulls	Rams D/ST D/ST	$1	Added. GULL dropped Greg Zuerlein, StL K to Waivers.
+1.	The Seagulls	Danario Alexander, SD WR	$12	Added. GULL dropped Dwayne Bowe, KC WR to Waivers.
+2.	McKayla's not Impressed	Hakeem Nicks, NYG WR	$7	Added. 
+ 	McKayla's not Impressed	Ronnie Hillman, Den RB	$7	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	Go Ravens CawCaw	Danario Alexander, SD WR	$5	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+3.	m0m0 m0m0	Visanthe Shiancoe, NE TE	$5	Added. m0m0 dropped Donald Brown, Ind RB to Waivers.
+4.	The Seagulls	Ronnie Hillman, Den RB	$5	Added. GULL dropped Kai Forbath, Wsh K to Waivers.
+ 	m0m0 m0m0	Ronnie Hillman, Den RB	$4	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+5.	m0m0 m0m0	Justin Blackmon, Jac WR	$4	Added. 
+6.	Go Ravens CawCaw	Cecil Shorts, Jac WR	$2	Added. Caw dropped Josh Morgan, Wsh WR to Waivers.
+7.	Go Ravens CawCaw	Colin Kaepernick, SF QB	$2	Added. Caw dropped Kevin Kolb, Ari QB to Waivers.
+8.	Go Ravens CawCaw	Jalen Parmele*, Jac RB	$1	Added. Caw dropped Chris Ivory, NO RB to Waivers.
+ 	Go Ravens CawCaw	Ronnie Hillman, Den RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+9.	Go Ravens CawCaw	Cardinals D/ST D/ST	$1	Added. Caw dropped Redskins D/ST, Wsh D/ST to Waivers.
+1.	m0m0 m0m0	Bryce Brown, Phi RB	$6	Added. m0m0 dropped Rashad Jennings, Jac RB to Waivers.
+ 	Go Ravens CawCaw	Julian Edelman, NE WR	$1	Unsuccessful.  Reason: A player involved is currently locked.
+2.	It's On Like Ndamukong	Chargers D/ST D/ST	$1	Added. Chin dropped Eagles D/ST, Phi D/ST to Waivers. Chin dropped Vikings D/ST, Min D/ST to Waivers.
+1.	DEM BRONCOS	Knowshon Moreno, Den RB	$7	Added. DB dropped Danny Woodhead, NE RB to Waivers.
+2.	Go Ravens CawCaw	Pierre Garcon, Wsh WR	$4	Added. Caw dropped Emmanuel Sanders, Pit WR to Waivers.
+ 	Trojans Fight On!!!	Knowshon Moreno, Den RB	$3	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+3.	Go Ravens CawCaw	Jacquizz Rodgers, Atl RB	$1	Added. Caw dropped Scott Chandler, Buf TE to Waivers.
+4.	Go Ravens CawCaw	Shane Vereen, NE RB	$1	Added. Caw dropped LaRod Stephens-Howling, Ari RB to Waivers.
+5.	Go Ravens CawCaw	Browns D/ST D/ST	$1	Added. Caw dropped Cardinals D/ST, Ari D/ST to Waivers.
+ 	The Seagulls	Knowshon Moreno, Den RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	The Seagulls	Jacquizz Rodgers, Atl RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	The Seagulls	Knowshon Moreno, Den RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+ 	The Seagulls	Jacquizz Rodgers, Atl RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
