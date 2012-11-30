@@ -1,3 +1,12 @@
+This is my code for processing all the data for the m0m0 Bowl League. 
+
+To get the sample data, you need to run the following commands:
+python processDraft.py 2012_raw_draftresults.txt 2012_processed_draftresults.txt
+python processWaivers.py 2012_processed_draftresults.txt 2012_raw_waiverwireresults.txt 2012_processed_waivermoves.txt
+python processCompleteRosters.py 2012_processed_waivermoves.txt 2012_raw_currentrosters.txt > 2012_processed_currentrosters.txt
+
+NOTE: Yes, the file names are complete pain in the ass, but better too descriptive than no idea what they do at all.
+
 processDraft.py
 Command: python processDraft.py [raw_draft] [processed_draft]
 [raw_draft] = the copied draft results.
