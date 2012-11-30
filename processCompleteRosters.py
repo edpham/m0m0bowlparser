@@ -19,13 +19,13 @@ allPlayers = {}
 for line in players:
 	line = line.split()
 	allPlayers[' '.join(line[0:3])] = line[3]
-
+	
 count = 0
 teamName = ''
 
 for line in current:
 	if line.split() != []:
-		if count == 0:
+		if teamName == '': 
 			teamName = ' '.join(line.split()[:-1])
 			print teamName
 		elif line.startswith('SLOT') or line.startswith('Propose'):
@@ -37,12 +37,9 @@ for line in current:
 				if player != '': del allPlayers[player]
 			else:
 				pass
-		
-		count = count + 1
-		
-	if count == size + 5:
-		count = 0
-		print '\n'
+	else:
+		teamName = ''
+		print '\n****\n'
 		
 print '\nFREE AGENTS'
 
