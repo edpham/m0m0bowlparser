@@ -225,3 +225,31 @@
  	The Seagulls	Jacquizz Rodgers, Atl RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
  	The Seagulls	Knowshon Moreno, Den RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
  	The Seagulls	Jacquizz Rodgers, Atl RB	$1	Unsuccessful.  Reason: Add / Drop player for this transaction no longer available.
+1.	The Seagulls	James Starks*, GB RB	$2	Added. GULL dropped Ronnie Hillman, Den RB to Waivers.
+ 	The Seagulls	James Starks*, GB RB	$2	Unsuccessful.  Reason: Player has already been added to another team.
+2.	The Seagulls	Rashad Jennings*, Jac RB	$2	Added. GULL dropped Rams D/ST, StL D/ST to Waivers.
+3.	The Seagulls	Dwayne Bowe*, KC WR	$2	Added. GULL dropped Danny Amendola, StL WR to Waivers.
+4.	Go Ravens CawCaw	Davone Bess*, Mia WR	$1	Added. 
+5.	McKayla's not Impressed	Adam Vinatieri, Ind K	$1	Added. HS dropped David Akers, SF K to Waivers.
+6.	m0m0 m0m0	Panthers D/ST D/ST	$1	Added. 
+1.	DEM BRONCOS	Chris Givens, StL WR	$5	Added. DB dropped Jacob Tamme, Den TE to Waivers.
+2.	Go Ravens CawCaw	Russell Wilson, Sea QB	$1	Added. Caw dropped Shane Vereen, NE RB to Waivers.
+3.	Go Ravens CawCaw	Josh Gordon, Cle WR	$1	Added. Caw dropped Davone Bess*, Mia WR to Waivers.
+1.	New York Giants	Golden Tate, Sea WR	$10	Added. NYC dropped Andre Brown*, NYG RB to Waivers.
+ 	New York Giants	Alex Green, GB RB	$10	Unsuccessful.  Reason: A player involved is currently locked.
+2.	DEM BRONCOS	Martellus Bennett, NYG TE	$5	Added. 
+3.	The Seagulls	Alex Green, GB RB	$2	Added. 
+ 	It's On Like Ndamukong	Golden Tate, Sea WR	$1	Unsuccessful.  Reason: Player has already been added to another team.
+4.	The Seagulls	Jets D/ST D/ST	$1	Added. 
+ 	The Seagulls	Joique Bell, Det RB	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	The Seagulls	Bilal Powell, NYJ RB	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	The Seagulls	Pierre Thomas, NO RB	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	The Seagulls	Dolphins D/ST D/ST	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+ 	The Seagulls	Rams D/ST D/ST	$1	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+1.	Trojans Fight On!!!	Montell Owens, Jac RB	$4	Added. USC dropped Brent Celek*, Phi TE to Waivers.
+2.	The Seagulls	Joique Bell, Det RB	$3	Added. GULL dropped Rashad Jennings*, Jac RB to Waivers.
+3.	Go Ravens CawCaw	Dennis Pitta, Bal TE	$1	Added. Caw dropped Brandon Pettigrew*, Det TE to Waivers.
+4.	Go Ravens CawCaw	Phil Dawson, Cle K	$1	Added. Caw dropped Shaun Suisham, Pit K to Waivers.
+5.	AZ Comeback Kids	Danny Woodhead, NE RB	$1	Added. 
+6.	The Seagulls	Bilal Powell, NYJ RB	$1	Added. GULL dropped Alex Green, GB RB to Waivers.
+1.	The Seagulls	Brandon Weeden, Cle QB	$1	Added. GULL dropped Jets D/ST, NYJ D/ST to Waivers.

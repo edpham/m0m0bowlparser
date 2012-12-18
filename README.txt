@@ -5,6 +5,8 @@ python processDraft.py 2012_raw_draftresults.txt 2012_processed_draftresults.txt
 python processWaivers.py 2012_processed_draftresults.txt 2012_raw_waiverwireresults.txt 2012_processed_waivermoves.txt
 python processCompleteRosters.py 2012_processed_waivermoves.txt 2012_raw_currentrosters.txt > 2012_processed_currentrosters.txt
 
+Or you can run it easily by just running the m0m0bowl.bat file and it'll do it all for you.
+
 NOTE: Yes, the file names are complete pain in the ass, but better too descriptive than no idea what they do at all.
 
 processDraft.py

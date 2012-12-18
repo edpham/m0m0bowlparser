@@ -118,6 +118,7 @@ Matt Ryan, Atl	$19
 Doug Martin, TB	$6
 Eric Decker, Den	$18
 Mike Williams, TB	$1
+Phil Dawson, Cle	$1
 Brent Celek, Phi	$3
 Matt Hasselbeck, Ten	$4
 Ryan Tannehill, Mia	$1
@@ -147,6 +148,7 @@ Broncos D/ST D/ST	$1
 Torrey Smith, Bal	$10
 Ronnie Hillman, Den	$5
 Nate Washington, Ten	$2
+Golden Tate, Sea	$10
 Steelers D/ST D/ST	$2
 Seahawks D/ST D/ST	$6
 Alfred Morris, Wsh	$20
@@ -178,6 +180,7 @@ Heath Miller, Pit	$1
 Terrell Owens, FA	$2
 Matt Bryant, Atl	$1
 Ben Roethlisberger, Pit	$10
+Chris Givens, StL	$5
 Redskins D/ST D/ST	$1
 Vick Ballard, Ind	$5
 Vincent Jackson, TB	$22
@@ -204,6 +207,7 @@ LaRod Stephens-Howling, Ari	$2
 Justin Tucker, Bal	$1
 Brandon Myers, Oak	$1
 Brandon Pettigrew, Det	$1
+Panthers D/ST D/ST	$1
 Marshawn Lynch, Sea	$20
 Tony Romo, Dal	$34
 Kai Forbath, Wsh	$1
@@ -215,6 +219,7 @@ A.J. Green, Cin	$16
 Bills D/ST D/ST	$1
 Jets D/ST D/ST	$1
 Jason Witten, Dal	$10
+Bilal Powell, NYJ	$1
 Dennis Pitta, Bal	$6
 Ed Dickson, Bal	$1
 Kellen Winslow, FA	$1
@@ -251,6 +256,7 @@ Eli Manning, NYG	$24
 Jacob Tamme, Den	$4
 Rashad Jennings, Jac	$5
 Shane Vereen, NE	$2
+Montell Owens, Jac	$4
 Mark Sanchez, NYJ	$7
 David Nelson, Buf	$1
 Jermaine Gresham, Cin	$8
@@ -271,6 +277,7 @@ C.J. Spiller, Buf	$3
 Victor Cruz, NYG	$16
 Jonathan Dwyer, Pit	$1
 Stephen Gostkowski, NE	$1
+Adam Vinatieri, Ind	$1
 Beanie Wells, Ari	$14
 Lawrence Tynes, NYG	$1
 Eagles D/ST D/ST	$2
