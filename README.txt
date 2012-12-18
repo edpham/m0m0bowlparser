@@ -1,11 +1,22 @@
 This is my code for processing all the data for the m0m0 Bowl League. 
 
+Running the Code
+================
 To get the sample data, you need to run the following commands:
 python processDraft.py 2012_raw_draftresults.txt 2012_processed_draftresults.txt
 python processWaivers.py 2012_processed_draftresults.txt 2012_raw_waiverwireresults.txt 2012_processed_waivermoves.txt
 python processCompleteRosters.py 2012_processed_waivermoves.txt 2012_raw_currentrosters.txt > 2012_processed_currentrosters.txt
 
-Or you can run it easily by just running the m0m0bowl.bat file and it'll do it all for you.
+Or you can run it easily by just running the m0m0bowl.bat file and it'll do it all for you. Just run it under the following command line:
+
+m0m0bowl.bat [year] 13
+
+[year] = the current year for the season, which for this season would be 2012.
+
+NOTE: You may need to edit the .bat file if you modify the file names that would be in the places where a "raw" file is.
+
+Explanation of each file's command line arguments
+=================================================
 
 NOTE: Yes, the file names are complete pain in the ass, but better too descriptive than no idea what they do at all.
 

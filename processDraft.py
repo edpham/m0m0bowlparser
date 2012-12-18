@@ -72,7 +72,7 @@ def writeRosters(draft, size):
 	output.close()
 	
 
-rostersize = input('Number of players on the roster? ')
+rostersize = int(sys.argv[3])
 count = 0
 
 draft = processRosters(rostersize, count)
