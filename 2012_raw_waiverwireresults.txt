@@ -253,3 +253,13 @@
 5.	AZ Comeback Kids	Danny Woodhead, NE RB	$1	Added. 
 6.	The Seagulls	Bilal Powell, NYJ RB	$1	Added. GULL dropped Alex Green, GB RB to Waivers.
 1.	The Seagulls	Brandon Weeden, Cle QB	$1	Added. GULL dropped Jets D/ST, NYJ D/ST to Waivers.
+1.	DEM BRONCOS	Danny Amendola, StL WR	$5	Added. DB dropped Chris Givens, StL WR to Waivers.
+ 	Go Ravens CawCaw	Danny Amendola, StL WR	$4	Unsuccessful.  Reason: Player has already been added to another team.
+2.	Go Ravens CawCaw	Colts D/ST D/ST	$3	Added. Caw dropped Browns D/ST, Cle D/ST to Waivers.
+3.	Go Ravens CawCaw	Chad Henne, Jac QB	$1	Added. Caw dropped Matthew Stafford, Det QB to Waivers.
+4.	True Playaz	Dallas Clark, TB TE	$1	Added. PLYZ dropped Jared Cook*, Ten TE to Waivers.
+5.	New York Giants	Greg Zuerlein, StL K	$1	Added. NYC dropped Robbie Gould*, Chi K to Waivers.
+1.	m0m0 m0m0	Sam Bradford, StL QB	$7	Added. 
+ 	m0m0 m0m0	Mike Tolbert, Car RB	$4	Unsuccessful.  Reason: Maximum roster size would be exceeded.
+2.	Go Ravens CawCaw	Steven Hauschka, Sea K	$1	Added. Caw dropped Phil Dawson, Cle K to Waivers.
+ 	The Seagulls	Sam Bradford, StL QB	$1	Unsuccessful.  Reason: Player has already been added to another team.

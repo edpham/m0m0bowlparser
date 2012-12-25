@@ -1,19 +1,19 @@
 M0M0 M0M0
-Carson Palmer, Oak	$6
+Sam Bradford, StL	$1
+LeSean McCoy, Phi	$112
 C.J. Spiller, Buf	$3
-Bryce Brown, Phi	$6
 Julio Jones, Atl	$16
 Justin Blackmon, Jac	$3
-T.Y. Hilton, Ind	$3
+James Jones, GB	$4
 Greg Olsen, Car	$1
 Panthers D/ST D/ST	$1
 Connor Barth, TB	$1
-Steelers D/ST D/ST	$2
-Brandon LaFell, Car	$1
-James Jones, GB	$4
-	
 Rob Gronkowski, NE	$16
-LeSean McCoy, Phi	$112
+Carson Palmer, Oak	$6
+T.Y. Hilton, Ind	$3
+Bryce Brown, Phi	$6
+	
+	
 
 ****
 
@@ -45,11 +45,12 @@ Golden Tate, Sea	$10
 Jeremy Kerley, NYJ	$1
 Tony Gonzalez, Atl	$7
 Bears D/ST D/ST	$1
-Robbie Gould, Chi	$1
+	
 Ben Roethlisberger, Pit	$10
 Darrius Heyward-Bey, Oak	$3
 Denarius Moore, Oak	$10
 Marcel Reece, Oak	$1
+Greg Zuerlein, StL	$1
 	
 	
 
@@ -75,19 +76,19 @@ Leonard Hankerson, Wsh	$1
 ****
 
 GO RAVENS CAWCAW
-Colin Kaepernick, SF	$2
+Russell Wilson, Sea	$2
 Stevan Ridley, NE	$15
 Jonathan Dwyer, Pit	$1
+Cecil Shorts, Jac	$2
 Pierre Garcon, Wsh	$11
 Josh Gordon, Cle	$8
-Roddy White, Atl	$62
 Dennis Pitta, Bal	$6
-Browns D/ST D/ST	$1
-Phil Dawson, Cle	$1
-Matthew Stafford, Det	$13
-Cecil Shorts, Jac	$2
+Colts D/ST D/ST	$3
+Steven Hauschka, Sea	$1
+Roddy White, Atl	$62
+Colin Kaepernick, SF	$2
 Jacquizz Rodgers, Atl	$1
-Russell Wilson, Sea	$2
+Chad Henne, Jac	$1
 Jalen Parmele, Jac	$1
 	
 
@@ -96,7 +97,7 @@ Jalen Parmele, Jac	$1
 AZ COMEBACK KIDS
 Drew Brees, NO	$81
 Frank Gore, SF	$30
-Daniel Thomas, Mia	$1
+Mark Ingram, NO	$6
 Victor Cruz, NYG	$16
 Brandon Lloyd, NE	$26
 Brandon Marshall, Chi	$41
@@ -104,8 +105,8 @@ Jermaine Gresham, Cin	$8
 Texans D/ST D/ST	$2
 Sebastian Janikowski, Oak	$3
 Ryan Fitzpatrick, Buf	$1
+Daniel Thomas, Mia	$1
 Ronnie Brown, SD	$1
-Mark Ingram, NO	$6
 Danny Woodhead, NE	$2
 DeSean Jackson, Phi	$14
 Nate Burleson, Det	$1
@@ -151,19 +152,19 @@ Santana Moss, Wsh	$1
 ****
 
 THE SEAGULLS
-Brandon Weeden, Cle	$2
+Robert Griffin III,	$7
 BenJarvus Green-Ellis, Cin	$21
 Doug Martin, TB	$6
 A.J. Green, Cin	$16
-Danario Alexander, SD	$12
+Dez Bryant, Dal	$22
 Wes Welker, NE	$24
 Heath Miller, Pit	$1
 Seahawks D/ST D/ST	$6
 Lawrence Tynes, NYG	$1
-Dez Bryant, Dal	$22
-Robert Griffin III,	$7
+Danario Alexander, SD	$12
 Joique Bell, Det	$3
 Bilal Powell, NYJ	$1
+Brandon Weeden, Cle	$2
 Cedric Benson, GB	$1
 Dwayne Bowe, KC	$26
 
@@ -175,13 +176,13 @@ Steven Jackson, StL	$33
 Mikel Leshoure, Det	$1
 Calvin Johnson, Det	$91
 Reggie Wayne, Ind	$11
-Brian Hartline, Mia	$1
-Brandon Myers, Oak	$1
-Ravens D/ST D/ST	$1
-Justin Tucker, Bal	$1
-Patriots D/ST D/ST	$1
 Kenny Britt, Ten	$3
+Brandon Myers, Oak	$1
+Patriots D/ST D/ST	$1
+Justin Tucker, Bal	$1
+Brian Hartline, Mia	$1
 Malcom Floyd, SD	$11
+Ravens D/ST D/ST	$1
 Montell Owens, Jac	$4
 	
 	
@@ -214,7 +215,7 @@ Alfred Morris, Wsh	$20
 Marques Colston, NO	$23
 Andre Johnson, Hou	$71
 Mike Wallace, Pit	$49
-Jared Cook, Ten	$5
+Dallas Clark, TB	$1
 Giants D/ST D/ST	$1
 Blair Walsh, Min	$1
 Fred Jackson, Buf	$19
@@ -251,7 +252,7 @@ Peyton Manning, Den	$27
 Vick Ballard, Ind	$5
 Knowshon Moreno, Den	$7
 Steve Smith, Car	$27
-Chris Givens, StL	$5
+Danny Amendola, StL	$1
 Sidney Rice, Sea	$3
 Aaron Hernandez, NE	$13
 Broncos D/ST D/ST	$1
@@ -262,6 +263,9 @@ Beanie Wells, Ari	$14
 Martellus Bennett, NYG	$1
 Willis McGahee, Den	$31
 Percy Harvin, Min	$25
+
+****
+
 
 FREE AGENTS
 Aldrick Robinson, Wsh	$1
@@ -274,16 +278,18 @@ Ben Tate, Hou	$15
 Bernard Scott, Cin	$1
 Brandon Bolden, NE	$5
 Brandon Jacobs, SF	$1
+Brandon LaFell, Car	$1
 Brandon Pettigrew, Det	$1
 Brent Celek, Phi	$3
 Brian Quick, StL	$1
+Browns D/ST D/ST	$1
 Cardinals D/ST D/ST	$1
+Chris Givens, StL	$5
 Chris Ivory, NO	$3
 Christian Ponder, Min	$1
 Coby Fleener, Ind	$1
 Cowboys D/ST D/ST	$1
 Dan Bailey, Dal	$1
-Danny Amendola, StL	$1
 David Akers, SF	$3
 David Nelson, Buf	$1
 Davone Bess, Mia	$2
@@ -298,11 +304,11 @@ Emmanuel Sanders, Pit	$1
 Evan Royster, Wsh	$1
 Fred Davis, Wsh	$3
 Greg Little, Cle	$2
-Greg Zuerlein, StL	$1
 Jackie Battle, SD	$3
 Jacob Tamme, Den	$4
 Jake Locker, Ten	$1
 James Starks, GB	$1
+Jared Cook, Ten	$5
 Jay Cutler, Chi	$9
 Jerome Simpson, Min	$1
 Jets D/ST D/ST	$1
@@ -325,6 +331,7 @@ Mason Crosby, GB	$2
 Matt Cassel, KC	$1
 Matt Flynn, Sea	$1
 Matt Hasselbeck, Ten	$4
+Matthew Stafford, Det	$13
 Michael Vick, Phi	$11
 Mike Goodson, Oak	$1
 Mike Nugent, Cin	$1
@@ -332,23 +339,25 @@ Mike Tolbert, Car	$1
 Nate Kaeding, FA	$4
 Nick Folk, NYJ	$1
 Peyton Hillis, KC	$16
+Phil Dawson, Cle	$1
 Pierre Thomas, NO	$1
 Rams D/ST D/ST	$1
 Randy Bullock, Hou	$1
 Rashad Jennings, Jac	$5
 Redskins D/ST D/ST	$1
 Rob Bironas, Ten	$2
+Robbie Gould, Chi	$1
 Robert Meachem, SD	$14
 Ronnie Hillman, Den	$5
 Roy Helu, Wsh	$13
 Ryan Tannehill, Mia	$1
 Ryan Williams, Ari	$1
-Sam Bradford, StL	$1
 Santonio Holmes, NYJ	$8
 Scott Chandler, Buf	$1
 Shane Vereen, NE	$2
 Shaun Suisham, Pit	$1
 Shayne Graham, Hou	$1
+Steelers D/ST D/ST	$2
 Stephen Hill, NYJ	$4
 Taiwan Jones, Oak	$1
 Tashard Choice, Buf	$5

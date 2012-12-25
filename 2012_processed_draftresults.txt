@@ -112,6 +112,7 @@ Robbie Gould, Chi	$1
 Pierre Thomas, NO	$1
 Eagles D/ST D/ST	$2
 THE SEAGULLS
+Robert Griffin III,	$7
 Wes Welker, NE	$24
 BenJarvus Green-Ellis, Cin	$21
 Jacob Tamme, Den	$4
@@ -120,7 +121,6 @@ Dwayne Bowe, KC	$26
 Dez Bryant, Dal	$22
 Cedric Benson, GB	$1
 Michael Vick, Phi	$11
-Robert Griffin III,	$7
 Seahawks D/ST D/ST	$6
 Doug Martin, TB	$6
 David Akers, SF	$3

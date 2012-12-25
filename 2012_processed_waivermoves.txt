@@ -26,6 +26,7 @@ Rob Gronkowski, NE	$16
 Anquan Boldin, Bal	$13
 Mike Nugent, Cin	$1
 Ryan Fitzpatrick, Buf	$1
+Steven Hauschka, Sea	$1
 DeAngelo Williams, Car	$14
 Robbie Gould, Chi	$1
 Reggie Wayne, Ind	$11
@@ -42,7 +43,6 @@ Bernard Scott, Cin	$1
 Randall Cobb, GB	$5
 Michael Turner, Atl	$35
 Mario Manningham, SF	$1
-Joique Bell, Det	$3
 Brandon Jacobs, SF	$1
 Giants D/ST D/ST	$1
 Texans D/ST D/ST	$2
@@ -77,7 +77,9 @@ Chris Ivory, NO	$3
 Jimmy Graham, NO	$16
 Alex Henery, Phi	$1
 Maurice Jones-Drew, Jac	$98
+Dallas Clark, TB	$1
 Robert Meachem, SD	$14
+Colts D/ST D/ST	$3
 Jackie Battle, SD	$3
 Neil Rackers, FA	$1
 Andre Brown, NYG	$5
@@ -85,7 +87,6 @@ Mark Ingram, NO	$6
 Ray Rice, Bal	$104
 Carson Palmer, Oak	$6
 Julio Jones, Atl	$16
-Santana Moss, Wsh	$1
 Andre Johnson, Hou	$71
 Matt Cassel, KC	$1
 Tony Gonzalez, Atl	$7
@@ -111,7 +112,6 @@ Rashard Mendenhall, Pit	$1
 Tom Brady, NE	$80
 Dustin Keller, NYJ	$1
 Patriots D/ST D/ST	$1
-Donald Jones, Buf	$1
 Randy Bullock, Hou	$1
 Vikings D/ST D/ST	$1
 Matt Ryan, Atl	$19
@@ -163,10 +163,11 @@ Donnie Avery, Ind	$3
 Jared Cook, Ten	$5
 Matt Flynn, Sea	$1
 Cecil Shorts, Jac	$2
+Jalen Parmele, Jac	$1
 Steve Smith, Car	$27
 Josh Morgan, Wsh	$2
 Joe Flacco, Bal	$2
-Jalen Parmele, Jac	$1
+Joique Bell, Det	$3
 Lance Moore, NO	$3
 Owen Daniels, Hou	$1
 Dolphins D/ST D/ST	$1
@@ -194,6 +195,7 @@ Shonn Greene, NYJ	$17
 Danny Amendola, StL	$1
 Matt Forte, Chi	$55
 Aaron Hernandez, NE	$13
+Donald Jones, Buf	$1
 Kevin Smith, Det	$3
 Scott Chandler, Buf	$1
 DeMarco Murray, Dal	$10
@@ -204,6 +206,7 @@ Kevin Ogletree, Dal	$7
 Michael Vick, Phi	$11
 Calvin Johnson, Det	$91
 LaRod Stephens-Howling, Ari	$2
+Chad Henne, Jac	$1
 Justin Tucker, Bal	$1
 Brandon Myers, Oak	$1
 Brandon Pettigrew, Det	$1
@@ -274,6 +277,7 @@ Drew Brees, NO	$81
 Justin Blackmon, Jac	$3
 Nate Kaeding, FA	$4
 C.J. Spiller, Buf	$3
+Santana Moss, Wsh	$1
 Victor Cruz, NYG	$16
 Jonathan Dwyer, Pit	$1
 Stephen Gostkowski, NE	$1
