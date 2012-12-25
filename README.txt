@@ -7,7 +7,7 @@ python processDraft.py 2012_raw_draftresults.txt 2012_processed_draftresults.txt
 python processWaivers.py 2012_processed_draftresults.txt 2012_raw_waiverwireresults.txt 2012_processed_waivermoves.txt
 python processCompleteRosters.py 2012_processed_waivermoves.txt 2012_raw_currentrosters.txt > 2012_processed_currentrosters.txt
 
-Or you can run it easily by just running the m0m0bowl.bat file and it'll do it all for you. Just run it under the following command line:
+Or you can run it easily by just running the m0m0bowl.bat (or m0m0bowl.sh, same thing but for UNIX and Mac users) file and it'll do it all for you. Just run it under the following command line:
 
 m0m0bowl.bat [year] 13
 
